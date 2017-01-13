@@ -37,4 +37,4 @@ jQuery_
 
 *This webpage is licensed under the MIT license.*
 
-Copyright (c) 2016 **_Ian Macharia &amp; Nombuyiselo Murage_**
+Copyright (c) 2017 **_Ian Macharia &amp; Nombuyiselo Murage_**
